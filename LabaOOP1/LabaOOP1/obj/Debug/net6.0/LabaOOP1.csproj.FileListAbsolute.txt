@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\LabaOOP1\LabaOOP1\bin\Debug\net6.0\LabaOOP1.exe
+C:\Users\admin\source\repos\LabaOOP1\LabaOOP1\bin\Debug\net6.0\LabaOOP1.deps.json
+C:\Users\admin\source\repos\LabaOOP1\LabaOOP1\bin\Debug\net6.0\LabaOOP1.runtimeconfig.json
+C:\Users\admin\source\repos\LabaOOP1\LabaOOP1\bin\Debug\net6.0\LabaOOP1.dll
+C:\Users\admin\source\repos\LabaOOP1\LabaOOP1\bin\Debug\net6.0\LabaOOP1.pdb
+C:\Users\admin\source\repos\LabaOOP1\LabaOOP1\obj\Debug\net6.0\LabaOOP1.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\LabaOOP1\LabaOOP1\obj\Debug\net6.0\LabaOOP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\LabaOOP1\LabaOOP1\obj\Debug\net6.0\LabaOOP1.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\LabaOOP1\LabaOOP1\obj\Debug\net6.0\LabaOOP1.AssemblyInfo.cs
+C:\Users\admin\source\repos\LabaOOP1\LabaOOP1\obj\Debug\net6.0\LabaOOP1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LabaOOP1\LabaOOP1\obj\Debug\net6.0\LabaOOP1.dll
+C:\Users\admin\source\repos\LabaOOP1\LabaOOP1\obj\Debug\net6.0\refint\LabaOOP1.dll
+C:\Users\admin\source\repos\LabaOOP1\LabaOOP1\obj\Debug\net6.0\LabaOOP1.pdb
+C:\Users\admin\source\repos\LabaOOP1\LabaOOP1\obj\Debug\net6.0\LabaOOP1.genruntimeconfig.cache
+C:\Users\admin\source\repos\LabaOOP1\LabaOOP1\obj\Debug\net6.0\ref\LabaOOP1.dll
